@@ -1,0 +1,17 @@
+Fecha: 22/07/2023 - Hora: 22:18:04 - Usuario: Usuario1 - Error: IOException - Mensaje: Archivo\B_Residuos municipales generadoss anualmente.csv (El sistema no puede encontrar la ruta especificada)
+Fecha: 22/07/2023 - Hora: 22:20:23 - Usuario: Sin Usuario - Error: IOException - Mensaje: Archivo\usuarios.txt (El sistema no puede encontrar la ruta especificada)
+Fecha: 22/07/2023 - Hora: 22:21:42 - Usuario: Usuario1 - Error: IOException - Mensaje: Reportes uardados\Reporte.txt (El sistema no puede encontrar la ruta especificada)
+Fecha: 22/07/2023 - Hora: 22:23:19 - Usuario: Usuario1 - Error: IOException - Mensaje: Archivos\B_Residuos municipales generados anualmente.txt (El sistema no puede encontrar el archivo especificado)
+Fecha: 22/07/2023 - Hora: 22:32:30 - Usuario: Usuario1 - Error: IllegalArgumentException - Mensaje: Válor de módulo inválido. Error en el método realizarOperacion - Clase Menu.
+Fecha: 22/07/2023 - Hora: 22:32:53 - Usuario: Usuario1 - Error: IllegalArgumentException - Mensaje: Válor de módulo inválido. Error en el método realizarOperacion - Clase Menu.
+Fecha: 22/07/2023 - Hora: 22:33:15 - Usuario: Usuario1 - Error: IllegalArgumentException - Mensaje: Válor de módulo inválido. Error en el método realizarOperacion - Clase Menu.
+Fecha: 22/07/2023 - Hora: 22:34:46 - Usuario: Usuario1 - Error: IllegalArgumentException - Mensaje: Válor de módulo inválido. Error en el método realizarOperacion - Clase Menu.
+Fecha: 26/07/2023 - Hora: 01:15:44 - Usuario: EDWIN RUIZ SECLEN - Error: IOException - Mensaje: Componentes\src\main\resources\BResiduos municipales generados anualmente.csv (El sistema no puede encontrar el archivo especificado)
+Fecha: 26/07/2023 - Hora: 01:17:28 - Usuario: Sin Usuario - Error: IOException - Mensaje: Componentes\src\main\resources\suarios.txt (El sistema no puede encontrar el archivo especificado)
+Fecha: 26/07/2023 - Hora: 03:04:15 - Usuario: Sin Usuario - Error: IOException - Mensaje: Componentes\src\main\resources\suarios.txt (El sistema no puede encontrar el archivo especificado)
+Fecha: 26/07/2023 - Hora: 03:07:08 - Usuario: Sin Usuario - Error: FileNotFoundException - Mensaje: Componentes\src\main\resources\suarios.txt (El sistema no puede encontrar el archivo especificado)
+Fecha: 26/07/2023 - Hora: 03:10:11 - Usuario: Sin Usuario - Error: FileNotFoundException - Mensaje: Componentes\src\main\resources\suarios.txt (El sistema no puede encontrar el archivo especificado)
+Fecha: 26/07/2023 - Hora: 03:22:21 - Usuario: Sin Usuario - Error: FileNotFoundException - Mensaje: Componentes\src\main\resources\suarios.txt (El sistema no puede encontrar el archivo especificado)
+Fecha: 26/07/2023 - Hora: 03:38:42 - Usuario: Sin Usuario - Error: FileNotFoundException - Mensaje: Componentes\src\main\resources\suarios.txt (El sistema no puede encontrar el archivo especificado)
+Fecha: 10/12/2023 - Hora: 21:36:39 - Usuario: EDWIN RUIZ SECLEN - Error: IllegalArgumentException - Mensaje: Los datos de entrada no pueden ser nulos o inválidos.
+Fecha: 10/12/2023 - Hora: 21:41:53 - Usuario: EDWIN RUIZ SECLEN - Error: IllegalArgumentException - Mensaje: Los datos de entrada no pueden ser nulos o inválidos.
